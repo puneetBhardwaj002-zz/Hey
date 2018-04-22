@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hey</string>
+    <string name="signup">SignUp</string>
+    <string name="login">Login</string>
+    <string name="not_have_account">Don\'t have an account ? SignUp here</string>
+    <string name="logout">Logout</string>
+</resources>
